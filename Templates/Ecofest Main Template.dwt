@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Ecofest Template</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+a:link {
+	color: #0F6;
+	text-decoration: none;
+}
+a:visited {
+	color: #0C3;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style></head>
+
+<body background="../images/pattern.png">
+<table width="80%" border="1" align="center" cellpadding="10" cellspacing="0">
+  <tr bgcolor="#0FAC3A">
+    <th height="163" colspan="2" align="left" bgcolor="#0FAC3A" scope="col"><!-- TemplateBeginEditable name="PageTitle" --> 
+      <h1>  <img src="../images/logoMakr_43QOyG.png" width="350" height="158" />ECOFEST 2019</h1>
+<p>&nbsp;</p> 
+    <!-- TemplateEndEditable --></th>
+  </tr>
+  <tr bgcolor="#0FAC3A">
+    <th width="30%" height="465" valign="top" scope="row"><p><a href="../index.html">EcoFest 2019</a></p>
+<p>&nbsp;</p>
+<p><a href="../acts.html">Acts &amp; Performances</a></p>
+    <p>&nbsp;</p>
+    <p><a href="../ticketprices.html">Ticket Prices </a></p>
+    <p>&nbsp;</p>
+    <p><a href="../locationinfo.html">Location &amp; Info</a></p></th>
+    <td width="70%" valign="top"><!-- TemplateBeginEditable name="Page Content" -->
+      <p>Page Content</p>
+      <p>&nbsp;</p>
+    <!-- TemplateEndEditable -->
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+</body>
+</html>
